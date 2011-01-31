@@ -5,4 +5,5 @@ gemspec
 
 group :test do
   require 'rspec'
+  require 'mocha'
 end
